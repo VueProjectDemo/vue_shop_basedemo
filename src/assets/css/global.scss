@@ -1,0 +1,29 @@
+html,
+body,
+#app {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+// 面包屑导航区
+.el-breadcrumb {
+  margin-bottom: 15px;
+  font-size: 12px;
+}
+
+// 卡片区域
+.el-card {
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15) !important;
+}
+
+// 列表
+.el-table {
+  margin-top: 15px;
+  font-size: 13px;
+}
+
+//分页组件
+.el-pagination {
+  margin-top: 15px;
+}
